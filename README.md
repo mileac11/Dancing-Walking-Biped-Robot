@@ -2,7 +2,7 @@
 Carmen Milea 244
 
 BOM: https://docs.google.com/spreadsheets/d/1_GYeWjBXVv_4aekasxN6_g4DxXadq2Kq5P1_7F1olAA/edit#gid=819642431 
-Video: 
+Video: https://www.youtube.com/watch?v=0OeayZjRntA 
 
 Descriere:
 
