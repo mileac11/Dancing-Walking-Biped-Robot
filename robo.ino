@@ -81,7 +81,7 @@ void left_leg_up()
     pos2++;
     delay(20);
    }
-   while(pos1 <100 );
+   while(pos1 < 100);
   
  }
 
@@ -158,7 +158,7 @@ void move1()
   }
   while(times > 0);
 
-  Serial.println("Done with move 3");
+  Serial.println("Done with move 1");
 }
 
 void move2()
@@ -206,7 +206,7 @@ void move3()
     Serial.println("Doing move 3");
    
     dont_move();
-    int times=3; 
+    int times = 3; 
     do
     {
       right_leg_up(); 
